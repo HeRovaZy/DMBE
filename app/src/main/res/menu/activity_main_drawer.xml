@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="Home" />
+        <item android:id="@+id/nav_contact"
+            android:title="Contact" />
+        <item android:id="@+id/nav_agenda"
+            android:title="Agenda" />
+        <item android:id="@+id/nav_tamtam"
+            android:title="TamTam" />
+    </group>
+
+    <item android:title="Onderdelen">
+        <menu>
+            <item android:id="@+id/nav_band"
+                android:title="De Band" />
+            <item android:id="@+id/nav_scouting"
+                android:title="DMBE Scoutingband" />
+            <item android:id="@+id/nav_oosterbloaskapel"
+                android:title="De Oosterbloaskapel" />
+            <item android:id="@+id/nav_stageband"
+                android:title="De Stageband" />
+            <item android:id="@+id/nav_jeugdorkest"
+                android:title="Het Jeugdorkest" />
+        </menu>
+    </item>
+
+</menu>

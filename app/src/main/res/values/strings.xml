@@ -1,0 +1,25 @@
+<resources>
+    <string name="parse_app_id">GVZx8cIJMEtALRFk8lQYdvtdhLVQWit5WIQAbKI3</string>
+    <string name="parse_client_key">7A1GZz184qxWKQXFcTN0C1GAFfRhnzXhfKqIvHTF</string>
+
+    <string name="app_name">DMBE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="large_text">
+        "Adresgegevens\n\n"
+
+        "\bDrum- en Marchingband Enschede.\n\n"
+        "Telefoonnummer: 0031534331091\n"
+        "Website: http://www.dmbe.nl/\n"
+        "E-mail: info@dmbe.nl\n\n"
+        "Bezoekadres: Herculesstraat 10, 7521 DJ Enschede, Nederland\n"
+        "Postadres: R. van Schevenstraat 163, 7521 SJ Enschede, Nederland\n"
+
+    </string>
+    <string name="title_activity_onderdelen">OnderdelenActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
